@@ -1,2 +1,3 @@
-# Ravenous-App
-A web app that allows users to search &amp; retrieve results for local food &amp; businesses in their geographic area
+## ravenous
+
+A client-side React application, utilizing the Yelp API to search for local businesses.

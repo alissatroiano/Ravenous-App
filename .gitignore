@@ -1,0 +1,7 @@
+
+# Dependecies
+node_modules/
+build/
+src/util/
+
+config.js

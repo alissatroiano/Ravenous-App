@@ -8,7 +8,8 @@
     "whatwg-fetch": "^2.0.4"
   },
   "devDependencies": {
-    "react-scripts": "^3.3.0"
+    "@types/react-dom": "^17.0.11",
+    "react-scripts": "^5.0.0"
   },
   "scripts": {
     "start": "react-scripts start",

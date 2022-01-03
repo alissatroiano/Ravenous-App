@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "homepage": "https://rocky-stream-82672.herokuapp.com/",
+    "homepage": "https://desolate-taiga-93858.herokuapp.com/",
     "react": "^15.6.0",
     "react-dom": "^15.6.0",
     "whatwg-fetch": "^2.0.4"
